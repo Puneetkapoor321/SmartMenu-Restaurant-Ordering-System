@@ -132,11 +132,11 @@ hotel-menu-app/
 
 ## 🔮 Future Improvements
 
-- [ ] **Backend Integration**: Implement Firebase/Supabase for persistent storage and cross-device sync.
-- [ ] **Payment Gateway**: Integrate Stripe/Razorpay for direct digital payments.
-- [ ] **Multi-Language Support**: Support for regional languages.
-- [ ] **Inventory Sync**: Automatically hide out-of-stock items.
-- [ ] **Customer Feedback**: Direct rating/review system per dish.
+- **Backend Integration**: Implement Firebase/Supabase for persistent storage and cross-device sync.
+- **Payment Gateway**: Integrate Stripe/Razorpay for direct digital payments.
+- **Multi-Language Support**: Support for regional languages.
+- **Inventory Sync**: Automatically hide out-of-stock items.
+- **Customer Feedback**: Direct rating/review system per dish.
 
 ---
 
