@@ -146,9 +146,9 @@ hotel-menu-app/
 | :------------------------------------------------: | :--------------------------------------------------: |
 | ![Landing Page](./screenshots/Screenshot%2001.png) | ![Menu Interface](./screenshots/Screenshot%2002.png) |
 
-|                 Cart & Details                  |                      Kitchen Admin                      |
-| :---------------------------------------------: | :-----------------------------------------------------: |
-| ![Cart View](./screenshots/Screenshot%2003.png) | ![Kitchen Dashboard](./screenshots/Screenshot%2004.png) |
+|                 Cart & Details                  |                    Order Confirmation                    |
+| :---------------------------------------------: | :------------------------------------------------------: |
+| ![Cart View](./screenshots/Screenshot%2003.png) | ![Order Confirmation](./screenshots/Screenshot%2004.png) |
 
 ---
 
