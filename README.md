@@ -151,6 +151,7 @@ hotel-menu-app/
 | ![Cart View](./screenshots/Screenshot%2003.png) | ![Order Confirmation](./screenshots/Screenshot%2004.png) |
 
 ---
+## **Here is the live link of the project** - https://smart-menu-restaurant-ordering-syst.vercel.app/
 
 ## 🤝 Contribution Guidelines
 
