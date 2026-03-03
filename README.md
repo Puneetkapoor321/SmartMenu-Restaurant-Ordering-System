@@ -20,7 +20,7 @@ Traditional restaurant ordering faces several bottlenecks:
 
 ## ✨ Solution Overview
 
-**SmartDine** provides a seamless, end-to-end digital ordering experience. By placing tablets at every table, the system enables:
+**SmartMenu** provides a seamless, end-to-end digital ordering experience. By placing tablets at every table, the system enables:
 
 1.  **Instant Browsing**: Customers explore high-resolution digital menus with categories and descriptions.
 2.  **Direct Ordering**: Orders are sent instantly to the kitchen dashboard with table numbers.
@@ -50,7 +50,7 @@ Traditional restaurant ordering faces several bottlenecks:
 
 ## 🏗️ System Architecture
 
-SmartDine follows a **modern SPA (Single Page Application)** architecture:
+SmartMenu follows a **modern SPA (Single Page Application)** architecture:
 
 - **Frontend**: Built with **React 19** and **Vite** for blazing fast performance.
 - **State Management**: **Zustand** handles the global state for the cart, table assignments, and order tracking.
@@ -89,7 +89,7 @@ Prerequisites: Node.js (v18 or higher)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/hotel-menu-app.git
+git clone https://github.com/Puneetkapoor321/SmartMenu-Restaurant-Ordering-System.git
 
 # 2. Navigate to the directory
 cd hotel-menu-app
@@ -142,9 +142,13 @@ hotel-menu-app/
 
 ## 📸 Screenshots
 
-|                                     Customer Menu                                      |                                      Kitchen Dashboard                                      |
-| :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![Menu Placeholder](https://placehold.co/600x400/000000/FFFFFF/png?text=Customer+Menu) | ![Admin Placeholder](https://placehold.co/600x400/000000/FFFFFF/png?text=Kitchen+Dashboard) |
+|                    Landing Page                    |                    Menu Interface                    |
+| :------------------------------------------------: | :--------------------------------------------------: |
+| ![Landing Page](./screenshots/Screenshot%2001.png) | ![Menu Interface](./screenshots/Screenshot%2002.png) |
+
+|                 Cart & Details                  |                      Kitchen Admin                      |
+| :---------------------------------------------: | :-----------------------------------------------------: |
+| ![Cart View](./screenshots/Screenshot%2003.png) | ![Kitchen Dashboard](./screenshots/Screenshot%2004.png) |
 
 ---
 
